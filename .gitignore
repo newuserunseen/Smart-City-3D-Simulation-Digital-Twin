@@ -1,0 +1,28 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Compiled assets
+*.pdb
+*.lib
+*.exp
+*.dll
+*.exe
